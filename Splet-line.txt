@@ -1,0 +1,1 @@
+$i 0; Get-Content .\Final.txt -ReadCount 50| %{$i++; $_ | out-File out_$i.txt}
