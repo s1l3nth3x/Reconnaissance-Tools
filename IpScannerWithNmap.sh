@@ -18,7 +18,7 @@ done
 
 
 #				help
-#$i ==> variabel fir edit ip
+#$i ==> variabel for edit ip
 #192.168.1.6 ==> Target	ip
 #-p ==> selected Port
 #-e ==> Selected networkInterFase
